@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.containerHeader{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 8px 40px;
+}
+
+.LOGO{
+    color: darkmagenta;
+
+}
+
+.otherTitle{
+
+}
