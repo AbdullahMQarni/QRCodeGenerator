@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Description of project
+
+A simple website that converts URL to QR Code Just to learn and refresh React.js basics.
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
