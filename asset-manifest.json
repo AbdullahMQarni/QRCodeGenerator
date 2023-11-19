@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QRCodeGenerator/static/css/main.7c29bfe2.css",
+    "main.js": "/QRCodeGenerator/static/js/main.163996e1.js",
+    "index.html": "/QRCodeGenerator/index.html",
+    "main.7c29bfe2.css.map": "/QRCodeGenerator/static/css/main.7c29bfe2.css.map",
+    "main.163996e1.js.map": "/QRCodeGenerator/static/js/main.163996e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c29bfe2.css",
+    "static/js/main.163996e1.js"
+  ]
+}
